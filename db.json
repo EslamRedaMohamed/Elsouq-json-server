@@ -19,8 +19,8 @@
         {
             "id": "3c1e",
             "full_name": "Eslam",
-            "user_name": "Reda",
-            "password": "123@Eslam",
+            "user_name": "Eslam Reda",
+            "password": "123eslam",
             "email": "eslamreda.info@gmail.com",
             "phone": "01123442408",
             "gender": "Male"
@@ -28,8 +28,8 @@
         {
             "id": "a376",
             "full_name": "fady",
-            "user_name": "fady2000",
-            "password": "123@Fady",
+            "user_name": "fady Mohsen",
+            "password": "123fadyy",
             "email": "fady@gmail.com",
             "phone": "01111111111",
             "gender": "Male"
@@ -37,8 +37,8 @@
         {
             "id": "ca25",
             "full_name": "kareem",
-            "user_name": "kareem2000",
-            "password": "123@kareem",
+            "user_name": "kareem Morsy",
+            "password": "123kareem",
             "email": "kareem@gmail.com",
             "phone": "01111111111",
             "gender": "Male"
@@ -95,6 +95,15 @@
             "password": "22222222",
             "email": "amir@gmail.com",
             "phone": "01222222222",
+            "gender": "Male"
+        },
+        {
+            "id": "2005",
+            "full_name": "admin",
+            "user_name": "admin",
+            "password": "123admin",
+            "email": "admin@gmail.com",
+            "phone": "01000000000",
             "gender": "Male"
         }
         ]
